@@ -1,0 +1,11 @@
+G:\C #\SAD_project\SAD_project\bin\Debug\SAD_project.exe
+G:\C #\SAD_project\SAD_project\bin\Debug\SAD_project.pdb
+G:\C #\SAD_project\SAD_project\obj\Debug\ResolveAssemblyReference.cache
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.Form1.resources
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.Properties.Resources.resources
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.csproj.GenerateResource.Cache
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.exe
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.pdb
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.root.resources
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.tran.resources
+G:\C #\SAD_project\SAD_project\obj\Debug\SAD_project.regis.resources
